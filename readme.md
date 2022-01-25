@@ -26,4 +26,7 @@ $ cd hey-chat-v2
   
  Run the command ```npm start``` to see your application live on http://localhost:8000/
 
-    
+## Live Version
+
+You can also checkout the live version of the app from [here](hey-chat-v2.herokuapp.com/)
+ 
